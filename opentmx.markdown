@@ -4,7 +4,7 @@ title: Open Tibia MX
 permalink: /OpenTibiaMX/
 ---
 
-[otmx.000webhostapp.com](https://otmx.000webhostapp.com).
+[opentmx.000webhostapp.com](https://opentmx.000webhostapp.com).
 
 
 [jekyll-organization]: https://github.com/jekyll
